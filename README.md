@@ -1,10 +1,10 @@
-# project_analysis
+# Project analysis
 
 Here contains some data analyzing project, meant to show basic data analyzing skills, data manipulation, visualization and logical thinking.
 
 
 
-## project-Online-magazine-analysis
+## Project - Online magazine analysis.
 
 project-Online-magazine-analysis is about lite analysis on an online magazine. 
 A young startup recently launched an innovative online magazine and is investing heavily in online marketing in order to grow its subscriber base. As a part of their growth effort they need to better understand their user base , i have a sample of 50,000 of their users and want to answer basic exploratory questions on this dataset. 
@@ -25,7 +25,7 @@ Every question is an open ended question and phrased in a non precise way on pur
 5. Summarise your findings aimed at the startup where you will tell them what you found and what would be your recommendations .  
 6. Bonus - Which marketing channels are performing well?
 
-## project _ Handwash-effect-for-COVID19. 
+## Project - Handwash effect for COVID19. 
 
 The effect of washing your hands as a remedy against spreading bacteria and can be effective for COVID19. 
 
